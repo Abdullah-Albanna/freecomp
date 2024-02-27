@@ -57,4 +57,4 @@
 |----------------------------------------------------------------|-------|-------|-----------
 | [SqaureX](https://sqrx.com/)                                   |  10Min|       | Chrome
 | [HyperBeam](https://watch.hyperbeam.com/)                      | <img src="https://cdn-icons-png.flaticon.com/128/10910/10910662.png" alt="Infinity Symbol" width="35">|       | Chrome
-| [Google Console](https://console.cloud.google.com)             |  ~12H |       | Chrome, Mullvad, Firefox, Opera
+| [Google Console](https://console.cloud.google.com)             |  ~12H |[Link](https://aa.is-a.dev/freecomp/GConsoleBrowser/)| Chrome, Mullvad, Firefox, Opera
