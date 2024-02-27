@@ -3,7 +3,7 @@
 ## Full Computer With Root Access
 | Website                                                        | Cores | RAM        | Storage      | Time | Usage | VNC/RDP            |        dGPU        |         OS
 |----------------------------------------------------------------|-------|------------|--------------|------|-------|--------------------|--------------------|--------------------
-| [Google Console](https://console.cloud.google.com)             |   2   | 8GB - 16GB |   11GB       | ~12H |       | :white_check_mark: |        :x:         | Debian GNU/Linux 11
+| [Google Console](https://console.cloud.google.com)             |   2   | 8GB - 16GB |   11GB       | ~12H |[Link](https://aa.is-a.dev/freecomp/GConsole/)| :white_check_mark: |        :x:         | Debian GNU/Linux 11
 | [Google Colab](https://colab.research.google.com/)             |   2   |    12GB    | 78Gb - 107GB | ~12H |       | :white_check_mark: | :white_check_mark: | Ubuntu 22.04.3 LTS
 | [Segfault](https://shell.segfault.net/#/dashboard)             |   1   |    2GB     |     12GB     |  <img src="https://cdn-icons-png.flaticon.com/128/9380/9380089.png" alt="Infinity Symbol" width="35"> |       | :white_check_mark: |         :x:        | Kali GNU/Linux
 | [Deepnote](https://deepnote.com/)                              |   2   |    5GB     |    ~70GB     | <img src="https://cdn-icons-png.flaticon.com/128/8438/8438595.png" alt="Infinity Symbol" width="35">     |       |        :x:         |        :x:         | Debian GNU/Linux 10
