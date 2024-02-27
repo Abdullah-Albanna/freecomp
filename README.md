@@ -41,7 +41,7 @@
 | Website                                                        | Cores | RAM        | Storage      | Time | Usage | VNC/RDP            |        dGPU        |         OS
 |----------------------------------------------------------------|-------|------------|--------------|------|-------|--------------------|--------------------|--------------------
 | [Tilde.club](http://tilde.club/)                               | 8 Shared | 30GB Shared |  1GB       |<img src="https://cdn-icons-png.flaticon.com/128/12500/12500121.png" alt="Infinity Symbol" width="35">   |       |        :x:         |        :x:         | Fedora Linux 38
-| [Tilde.green](https://tilde.green/)                            |   ?   |     ?      |      ?       |<img src="https://cdn-icons-png.flaticon.com/128/8196/8196681.png" alt="Infinity Symbol" width="35">  |       |        :x:         |        :x:         | ?
+| [Tilde.green](https://tilde.green/)                            | 8 Shared | 32GB Shared |    1.5GB       |<img src="https://cdn-icons-png.flaticon.com/128/8196/8196681.png" alt="Infinity Symbol" width="35">  |       |        :x:         |        :x:         | Ubuntu 22.04.4 LTS
 | [Project Pubnix](https://projectsegfau.lt/)                    |   ?   |     ?      |      ?       |<img src="https://cdn-icons-png.flaticon.com/128/10490/10490599.png" alt="Infinity Symbol" width="35">  |       |        :x:         |        :x:         | ?
 
 ## Basic Shell
@@ -56,5 +56,5 @@
 | Website                                                        |  Time | Usage |   Browser
 |----------------------------------------------------------------|-------|-------|-----------
 | [SqaureX](https://sqrx.com/)                                   |  10Min|       | Chrome
-| [HyperBeam](https://watch.hyperbeam.com/)                      |  10Min|       | Chrome
-| [Google Console](https://console.cloud.google.com)             |   ?   |       | Chrome, Mullvad, Firefox, Opera
+| [HyperBeam](https://watch.hyperbeam.com/)                      | <img src="https://cdn-icons-png.flaticon.com/128/10910/10910662.png" alt="Infinity Symbol" width="35">|       | Chrome
+| [Google Console](https://console.cloud.google.com)             |  ~12H |       | Chrome, Mullvad, Firefox, Opera
