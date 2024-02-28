@@ -41,7 +41,7 @@
 |----------------------------------------------------------------|-------|------------|--------------|------|-------|--------------------|--------------------|--------------------
 | [Tilde.club](http://tilde.club/)                               | 8 Shared | 30GB Shared |  1GB       |<img src="https://cdn-icons-png.flaticon.com/128/12500/12500121.png" alt="Infinity Symbol" width="35">   |       |        :x:         |        :x:         | Fedora Linux 38
 | [Tilde.green](https://tilde.green/)                            | 8 Shared | 32GB Shared |    1.5GB       |<img src="https://cdn-icons-png.flaticon.com/128/8196/8196681.png" alt="Infinity Symbol" width="35">  |       |        :x:         |        :x:         | Ubuntu 22.04.4 LTS
-| [Project Pubnix](https://projectsegfau.lt/)                    |   ?   |     ?      |      ?       |<img src="https://cdn-icons-png.flaticon.com/128/10490/10490599.png" alt="Infinity Symbol" width="35">  |       |        :x:         |        :x:         | ?
+| [Project Pubnix](https://projectsegfau.lt/)                    |   2   |   ~1.5GB    |      ~6GB       |<img src="https://cdn-icons-png.flaticon.com/128/10490/10490599.png" alt="Infinity Symbol" width="35">  |       |        :x:         |        :x:         | Debian GNU/Linux 12
 
 ## Basic Shell
 
