@@ -12,8 +12,7 @@
 | [Replit](https://replit.com/)                                  |   1   |    ~1GB    |     10GB     | <img src="https://cdn-icons-png.flaticon.com/128/9380/9380089.png" alt="Infinity Symbol" width="35">      |       | :white_check_mark: |        :x:         | Debian GNU/Linux 10
 | [Gitpod](https://www.gitpod.io/)                               |   ?   |     ?      |      ?       |  ?   |       |        ?           |       ?            | ?
 | [Databrick](https://databricks.com/)                           |   ?   |     ?      |      ?       |  ?   |       |        ?           |        ?           | ?
-|          ┌──--- Linux                                          |   4   |    8GB     |    ~20GB     | 2H/D |       | :white_check_mark: |        :x:         | Parrot OS
-| [HackTheBox](https://academy.hackthebox.com/)                  |       |            |              |      |       |                    |                    |
+| [HackTheBox](https://academy.hackthebox.com/)                  |   4   |    8GB     |    ~20GB     | 2H/D |       | :white_check_mark: |        :x:         | Parrot OS
 |          ┌──-Linux                                             |   2   |    7GB     |    ~20GB     |33H/M |       | :white_check_mark: |        :x:         | Ubuntu 22.04.4 LTS
 | [Github Actions](https://github.com/features/actions)          |   2   |    7GB     |     70GB     |16H/M |       | :white_check_mark: |        :x:         | Windows 10
 |          └──-MacOS                                             |   4   |    15GB    |     70GB     | 3H/M |       | :white_check_mark: |        :x:         | MacOS Monterey
