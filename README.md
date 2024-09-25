@@ -1,5 +1,9 @@
 # Free Computers
 
+
+## WARNING ⚠️
+**these websites shall not be used for any unethical activites**
+
 ## Full Computer With Root Access
 | Website                                                        | Cores | RAM        | Storage      | Time | Usage | VNC/RDP            |        dGPU        |         OS
 |----------------------------------------------------------------|-------|------------|--------------|------|-------|--------------------|--------------------|--------------------
